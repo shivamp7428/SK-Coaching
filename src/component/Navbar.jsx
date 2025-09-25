@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="container mx-auto px-7 py-3 flex bg-opacity-90 backdrop-blur-2xl bg-white justify-between items-center">
         {/* Logo */}
         <a href="#" className="flex items-center space-x-3">
-          <img src="logo.png" alt="logo" className="w-14 h-14 rounded-full  shadow-lg" />
+          <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825754/logo_fqxpga.png" alt="logo" className="w-14 h-14 rounded-full  shadow-lg" />
           <h1 className={`hidden md:block text-lg font-bold drop-shadow-md`}>
             SK Computer Coaching <br /> & Institute Pvt. Ltd.
           </h1>

@@ -52,7 +52,7 @@ export default function ContactUs() {
   return (
     <div className="flex justify-center mt-10">
       <div>
-        <img src="f7.svg" alt="img" className="m-20 mr-10 hidden md:block" />
+        <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825995/f7_foo24m.svg" alt="img" className="m-20 mr-10 hidden md:block" />
       </div>
       <div className="max-w-sm mt-20 mx-auto m-30 md:mt-30 p-6 bg-white space-y-4">
         <h1 className="text-2xl font-bold text-gray-800">Contact Us</h1>

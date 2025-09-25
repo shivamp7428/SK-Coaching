@@ -53,7 +53,7 @@ export default function LoginForm() {
       <ToastContainer position="top-right" autoClose={3000} />
 
       <div>
-        <img src="f1.png" alt="img" className="m-30 mr-10 hidden md:block h-96" />
+        <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825934/f1_kc88h0.png" alt="img" className="m-30 mr-10 hidden md:block h-96" />
       </div>
 
       <div className="max-w-sm mx-auto m-5 p-6 bg-white space-y-3">

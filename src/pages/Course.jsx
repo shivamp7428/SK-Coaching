@@ -163,7 +163,7 @@ export default function CoursesPage() {
     </h1>
     
     {/* Image with Hover Animation */}
-    <img src="computer.svg"  alt="Computer"  className="w-72 h-44 md:w-96 md:h-52 mt-10 rounded-xl     hover:scale-105 transition duration-300 " />
+    <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758826081/computer_pobsow.svg"  alt="Computer"  className="w-72 h-44 md:w-96 md:h-52 mt-10 rounded-xl     hover:scale-105 transition duration-300 " />
     </div>
 
   {/* Right Section - Content */}

@@ -7,8 +7,8 @@ import { motion } from "framer-motion";
 
 const About = () => {
   const teamMembers = [
-    { name: "Sateesh Kushwaha", role: "Director & Founder", img: "sateesh2.jpg" },
-    { name: "Shivam Patel", role: "Lead Developer", img: "shivam.jpg" },
+    { name: "Sateesh Kushwaha", role: "Director & Founder", img: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825812/sateesh2_ebo6if.jpg" },
+    { name: "Shivam Patel", role: "Lead Developer", img: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825872/shivam_fia3xt.jpg" },
   ];
 
   const values = [

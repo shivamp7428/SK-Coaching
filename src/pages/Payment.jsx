@@ -106,7 +106,7 @@ const PaymentPage = () => {
 
   return (
     <div className="flex gap-30">
-      <img src="f9.svg" alt="payment" className="m-40 h-130 mr-10 hidden md:block" />
+      <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758826158/f9_eyx51e.svg" alt="payment" className="m-40 h-130 mr-10 hidden md:block" />
       <div className="min-h-screen mt-10 flex items-center justify-center p-6">
         <div className="w-full max-w-md p-8">
           <h2 className="text-2xl font-semibold text-gray-800 mb-6 text-center">

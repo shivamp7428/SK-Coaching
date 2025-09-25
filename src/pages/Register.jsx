@@ -75,7 +75,7 @@ export default function Register() {
   return (
     <div className="flex mt-10">
       <div>
-        <img src="f1.png" alt="img" className="m-30 mr-10 hidden md:block" />
+        <img src="https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825934/f1_kc88h0.png" alt="img" className="m-30 mr-10 hidden md:block" />
       </div>
 
       <div className="max-w-sm mx-auto mt-20 p-6 bg-white space-y-3">

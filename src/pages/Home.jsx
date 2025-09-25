@@ -26,19 +26,19 @@ const settings = {
 const slides = [
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-    image: "f3.png",
+    image: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825648/f5_z7pduh.jpg",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-     image: "f3.png",
+     image: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825648/f5_z7pduh.jpg",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-     image: "f3.png",
+     image: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825648/f5_z7pduh.jpg",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-    image: "f3.png",
+    image: "https://res.cloudinary.com/dznmoz8hw/image/upload/v1758825648/f5_z7pduh.jpg",
   },
 ];
 
