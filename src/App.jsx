@@ -13,7 +13,7 @@ import CoursesPage from './pages/Course';
 import TermsAndConditions from './pages/Condition';
 import Video from './pages/Video';
 import Footer from './component/Footer';
-import Dashboard from './pages/dashboard';
+import Dashboard from './pages/Dashboard';
 import CareerPage from './pages/Career';
 import PaymentPage from './pages/Payment';
 import NotFound from './component/NotFound';
