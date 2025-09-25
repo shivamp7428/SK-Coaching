@@ -26,19 +26,19 @@ const settings = {
 const slides = [
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-    image: "https://res.cloudinary.com/drlcjjixb/image/upload/v1758826938/f3_hozyhn.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB9wkltQ3JHcztRboy3CG4aWl1CsL_Rv4AA&s",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-     image: "https://res.cloudinary.com/drlcjjixb/image/upload/v1758826938/f3_hozyhn.png",
+     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB9wkltQ3JHcztRboy3CG4aWl1CsL_Rv4AA&s",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-     image: "https://res.cloudinary.com/drlcjjixb/image/upload/v1758826938/f3_hozyhn.png",
+     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB9wkltQ3JHcztRboy3CG4aWl1CsL_Rv4AA&s",
   },
   {
     title: "SK COMPUTER COACHING & INSTITUTE PVT. LTD.",
-    image: "https://res.cloudinary.com/drlcjjixb/image/upload/v1758826938/f3_hozyhn.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB9wkltQ3JHcztRboy3CG4aWl1CsL_Rv4AA&s",
   },
 ];
 
@@ -123,7 +123,7 @@ const Home = () => {
             <img
               src={slide.image}
               alt={slide.title}
-              className="w-full h-full object-cover brightness-150"
+              className="w-full h-full object-cover bg-black/20"
             />
             <div className="absolute inset-0 flex flex-col items-center justify-center text-center  md:px-20">
             <h2 className="text-yellow-500 text-2xl md:text-5xl font-bold mb-4 drop-shadow-lg">
