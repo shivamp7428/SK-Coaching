@@ -36,7 +36,7 @@ const PopupModal = () => {
           <p>DCA </p>
           <p>PGDCA </p>
           <p> TALLY </p>
-           <p>⌨CPCT Preparation & Typing</p>
+           <p>CPCT Preparation & Typing</p>
            
         </ul>
 
