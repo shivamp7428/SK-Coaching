@@ -29,18 +29,18 @@ const PopupModal = () => {
         <h2 className="text-2xl font-bold mb-4 ">Welcome to Smart SK  Computer Coaching</h2>
 
         <p className="mb-4 text-gray-700">
-          🚀 Start your journey with our professional computer courses:
+           Start your journey with our professional computer courses:
         </p>
 
         <ul className="text-left mb-4 text-gray-800 font-medium list-disc list-inside">
-          <p>🖥️ DCA </p>
-          <p>📊 PGDCA </p>
-          <p>💼 TALLY </p>
-           <p>⌨️ CPCT Preparation & Typing</p>
+          <p>DCA </p>
+          <p>PGDCA </p>
+          <p> TALLY </p>
+           <p>⌨CPCT Preparation & Typing</p>
            
         </ul>
 
-        <p className="text-sm text-gray-600">✅ 100% Practical Training | 📜 Certified Faculty</p>
+        <p className="text-sm text-gray-600">✅ 100% Practical Training |  Certified Faculty</p>
         <button className="bg-red-500 text-white p-3 rounded m-5 font-bold"><a href="/Register">Go To Register</a></button>
       </div>
     </div>
